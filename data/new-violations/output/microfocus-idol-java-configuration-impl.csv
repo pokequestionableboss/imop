@@ -1,0 +1,25 @@
+sha,mop actual,mop expected,ps1c actual,ps1c expected,ps3cl actual,ps3cl expected,mopCache actual,mopCache expected,mopCacheShared actual,mopCacheShared expected,online actual,online expected,incrementalJar actual,incrementalJar expected,jarThreads actual,jarThreads expected,cleanByteCode actual,cleanByteCode expected,storeHashes actual,storeHashes expected,incrementalJarThreads actual,incrementalJarThreads expected,cleanByteCodeThreads actual,cleanByteCodeThreads expected,storeHashesThreads actual,storeHashesThreads expected,methodCIA actual,methodCIA expected,classCIA actual,classCIA expected,dynamicCIA actual,dynamicCIA expected,methodCIAThreads actual,methodCIAThreads expected,dynamicCIAThreads actual,dynamicCIAThreads expected,classCIAThreads actual,classCIAThreads expected
+42fb97c38f16a211f9231ea1be926e771be0158a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cd27a2201f4e68b2011d0e9adb3c6d9b24ddd041,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cd1a4dfcf36e2358b00862dfb34e1b148dbc6f4c,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26bb9fa23bbdecdbd418d6ab91474c1861e6da28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+becbb1bbf8355e70a4a4a88d72c12e46cdb11626,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e6164825f2476dbdc1c52a40cf18933f9758b87e,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+97a68375fc26f21655d380ed032be9ce6ebab4a8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+08363db033e064c12782ad374029ef9abea226d3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cee296eea2cd50e62ff4d3ff6b9c6ef24e6d8b91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5ba64cca53771984d5d73e4e8a6719b8b6dab686,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67efdffd6f3c2e646d84bcdecbebf432fc1afae5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+866f72dc2e7bfc548134fa2be86a392825ba04f7,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+00a78361d677eb2286258fb20f46551a4c8965ae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b99f46cc03072e6cf7d8c57e59f7665a4fae6820,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+470fdf6a41cabb7edbb5d69714b2a4657fcc95f6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+26cd1ee61469a46e5e786ec96e00d38ff4593180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459f7b01e2cf39f5c75b9f1e02db17e2ec43f124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ef6525129496c020b9e5978ba8a572022ae7f9f3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b687665b034890081b0ee5223e36ae99fac5fe09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88ada822c8556aaeb13334c016c6d418cab62e66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bd8bf49443f734e9d21645e6807fca752625a8f4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39fe0ab5f8e4846340e88336e4d1129124157c54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7d7c4e5f5f90d53c971608a2ba6ac7e98e1cb8a7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ed86d03437b8e227810916507c7fdb96a7e6ec53,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1

@@ -1,0 +1,7 @@
+,ps1c,ps3cl,specific,agnostic
+"Missed new violations (\pre, of 176)",42,61,45,39
+"Missed new violations (\post, of 107)",1,3,1,1
+"Unsafe \versions (\pre, of 376)",36,53,35,37
+"Unsafe \versions (\post, of 376)",1,3,1,1
+"Unsafe projects (\pre, of 10)",5,5,6,4
+"Unsafe projects (\post, of 10)",1,2,1,1

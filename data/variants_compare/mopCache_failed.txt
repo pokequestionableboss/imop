@@ -1,0 +1,10 @@
+asciidoctor-asciidoclet
+devcon5io-mutation-analysis-plugin
+jdbc-observations-datasource-proxy
+Mastercard-client-encryption-java
+weswilliams-GivWenZen
+venushka-jmxeval
+imglib-imglib2
+mitre-HTTP-Proxy-Servlet
+meltmedia-jgroups-aws
+square-javapoet

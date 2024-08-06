@@ -1,0 +1,9 @@
+sha,mop instr,mop project,mop monitoring,mop lock,mop violation,mop other,ps1c instr,ps1c project,ps1c monitoring,ps1c lock,ps1c violation,ps1c other,ps3cl instr,ps3cl project,ps3cl monitoring,ps3cl lock,ps3cl violation,ps3cl other,mopCache instr,mopCache project,mopCache monitoring,mopCache lock,mopCache violation,mopCache other,incrementalJar instr,incrementalJar project,incrementalJar monitoring,incrementalJar lock,incrementalJar violation,incrementalJar other
+9922f9e9c2dbcf235cd60dbcc858b6bb09e161d4,1554,10,17,0,0,71,1588,9,20,0,0,57,1570,8,21,0,0,68,1636,7,19,0,0,67,1,15,20,7,0,52
+9935c60ac67a3353a565ad6b2241ffaf051421a8,1578,10,22,0,0,69,784,9,13,1,0,63,212,8,19,3,0,38,267,10,17,2,0,48,1,8,17,3,0,55
+6b6056f0b74bdc800ca7eee0565ef42bb28ffb5c,3598,52,29,0,0,74,1846,56,17,1,0,80,199,35,15,2,0,42,2770,59,25,1,0,67,5,39,23,3,0,65
+11f61545596e9b642176c65a4418b81dac1a0a28,3421,52,34,0,0,81,1692,52,20,1,0,74,180,28,14,2,0,39,245,50,29,2,0,46,2,43,20,2,0,51
+0e1b4b92c63836fe9224e1a54d60aeed0619adf2,3617,38,27,0,0,92,1654,51,22,0,0,80,173,39,16,0,0,40,257,55,24,2,1,53,2,51,30,2,0,52
+8452318ec4a4cd88882dafe38cdde2a572ab5971,3451,55,28,0,0,71,1769,45,21,0,0,73,216,35,16,2,0,37,218,56,21,2,0,41,4,58,26,3,0,59
+47def364f62597cb278375626b708f324ca68034,3547,53,23,1,0,80,1755,45,21,1,0,68,181,34,14,1,0,37,234,53,23,3,0,43,1,46,33,1,0,61
+9323fe0c960896b2869346ab984d6db93643c65f,3574,62,20,0,1,92,1726,58,16,1,0,83,171,35,15,1,0,42,288,53,24,2,0,41,6,58,32,1,0,56

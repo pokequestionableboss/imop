@@ -1,0 +1,11 @@
+pointcut pc1 before MethodCall(* *.Collections.binarySearch(List, Object, Comparator))
+pointcut pc2 before MethodCall(* *.Collections.binarySearch(List, Object))
+pointcut pc3 before MethodCall(* *.*Collection.add*(..)) || before MethodCall(* *.*Collection.remove*(..)) || before MethodCall(* *.*Collection.clear(..)) || before MethodCall(* *.*Collection.retain*(..)) || before MethodCall(* *.*List.set(..))
+pointcut pc4 before MethodCall(* *.Collections.sort(List, Comparator))
+pointcut pc5 before MethodCall(* *.Collections.sort(List))
+
+event e1("Collections_SortBeforeBinarySearch", name, [getMethodReceiver, getMethodResult, getAllMethodArgs]) on pc1 to Monitor.receiveEvents(String, String, List)
+event e2("Collections_SortBeforeBinarySearch", name, [getMethodReceiver, getMethodResult, getAllMethodArgs]) on pc2 to Monitor.receiveEvents(String, String, List)
+event e3("Collections_SortBeforeBinarySearch", name, [getMethodReceiver, getMethodResult]) on pc3 to Monitor.receiveEvents(String, String, List)
+event e4("Collections_SortBeforeBinarySearch", name, [getMethodReceiver, getMethodResult, getAllMethodArgs]) on pc4 to Monitor.receiveEvents(String, String, List)
+event e5("Collections_SortBeforeBinarySearch", name, [getMethodReceiver, getMethodResult, getAllMethodArgs]) on pc5 to Monitor.receiveEvents(String, String, List)

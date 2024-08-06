@@ -1,0 +1,11 @@
+pointcut pc1 before MethodCall(* *.Iterator.hasNext(..)) || before MethodCall(* *.Iterator.next(..))
+pointcut pc2 before MethodCall(* *.*Collection.add*(..)) || before MethodCall(* *.Collection.clear(..)) || before MethodCall(* *.Collection.offer*(..)) || before MethodCall(* *.Collection.pop(..)) || before MethodCall(* *.Collection.push(..)) || before MethodCall(* *.Collection.remove*(..)) || before MethodCall(* *.Collection.retain*(..))
+pointcut pc3 before MethodCall(* *.*Map.clear*(..)) || before MethodCall(* *.*Map.put*(..)) || before MethodCall(* *.*Map.remove(..))
+pointcut pc4 after MethodCall(* *.*Map.keySet()) || after MethodCall(* *.*Map.entrySet()) || after MethodCall(* *.*Map.values())
+pointcut pc5 before MethodCall(* *.*Iterable.iterator(..))
+
+event e1("Map_UnsafeIterator", name, [getMethodReceiver, getMethodResult]) on pc1 to Monitor.receiveEvents(String, String, List)
+event e2("Map_UnsafeIterator", name, [getMethodReceiver, getMethodResult]) on pc2 to Monitor.receiveEvents(String, String, List)
+event e3("Map_UnsafeIterator", name, [getMethodReceiver, getMethodResult]) on pc3 to Monitor.receiveEvents(String, String, List)
+event e4("Map_UnsafeIterator", name, [getMethodReceiver, getMethodResult]) on pc4 to Monitor.receiveEvents(String, String, List)
+event e5("Map_UnsafeIterator", name, [getMethodReceiver, getMethodResult]) on pc5 to Monitor.receiveEvents(String, String, List)

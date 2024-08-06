@@ -1,0 +1,15 @@
+project,noRTS tests,starts tests,ekstazi tests,starts ratio,ekstazi ratio
+asciidoctor-asciidoclet,814,567,417,0.696,0.512
+contentful-contentful.java,10967,8917,8516,0.813,0.776
+jdbc-observations-datasource-proxy,24752,11204,6423,0.452,0.259
+jsunsoftware-http-request,931,769,672,0.825,0.721
+Pablissimo-SonarTsPlugin,1036,590,363,0.569,0.35
+pagehelper-Mybatis-PageHelper,6761,5641,2996,0.834,0.443
+sailthru-sailthru-java-client,1913,626,564,0.327,0.294
+sigopt-sigopt-java,2370,1238,806,0.522,0.34
+valfirst-jbehave-junit-runner,1189,557,463,0.468,0.389
+visenze-visearch-sdk-java,7759,5272,3163,0.679,0.407
+max,24752,11204,8516,0.834,0.776
+min,814,557,363,0.327,0.259
+avg,5849.2,3538.1,2438.3,0.6185,0.4491
+med,2141.5,1003.5,739,0.624,0.398

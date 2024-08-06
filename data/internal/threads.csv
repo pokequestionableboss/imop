@@ -1,0 +1,3 @@
+,10 threads,20 threads,40 threads
+best usage unaware,3492.55,3391.666,3399.713
+best usage aware,3323.137,3279.566,3268.942

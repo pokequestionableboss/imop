@@ -1,0 +1,10 @@
+Pablissimo/SonarTsPlugin
+asciidoctor/asciidoclet
+contentful/contentful.java
+jdbc-observations/datasource-proxy
+jsunsoftware/http-request
+pagehelper/Mybatis-PageHelper
+sailthru/sailthru-java-client
+sigopt/sigopt-java
+valfirst/jbehave-junit-runner
+visenze/visearch-sdk-java

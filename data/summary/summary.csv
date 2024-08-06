@@ -1,0 +1,3 @@
+,mop,ps1c,ps3cl,online,jarThreads,incrementalJar,incrementalJarThreads,cleanBytecode,cleanBytecodeThreads,storeHashes,storeHashesThreads,staticCIA,staticCIAThreads,dynamicCIA,dynamicCIAThreads,mopCache,mopCacheShared
+abs,139248.593,90512.383,40518.185,34257.796,23877.497,29752.038,26124.629,26888.699,23781.104,27664.79,23985.368,20241.737,18508.673,29099.999,27832.646,22382.724,59994.427
+rel,13.19,8.574,3.838,3.245,2.262,2.818,2.475,2.547,2.253,2.621,2.272,1.917,1.753,2.757,2.636,2.12,5.683
